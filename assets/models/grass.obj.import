@@ -2,18 +2,17 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/grass.obj-7096b87cff15d7cebaa4df5be310717b.mesh"
+path="res://.import/grass.obj-bcfb7f7db499f084c81c82b6e2a382ba.mesh"
 
 [deps]
 
-files=[ "res://.import/grass.obj-7096b87cff15d7cebaa4df5be310717b.mesh" ]
+files=[ "res://.import/grass.obj-bcfb7f7db499f084c81c82b6e2a382ba.mesh" ]
 
-source_file="res://assets/models/grass.obj"
-dest_files=[ "res://.import/grass.obj-7096b87cff15d7cebaa4df5be310717b.mesh", "res://.import/grass.obj-7096b87cff15d7cebaa4df5be310717b.mesh" ]
+source_file="res://scenes/WaterwaysDemo/assets/models/grass.obj"
+dest_files=[ "res://.import/grass.obj-bcfb7f7db499f084c81c82b6e2a382ba.mesh", "res://.import/grass.obj-bcfb7f7db499f084c81c82b6e2a382ba.mesh" ]
 
 [params]
 
 generate_tangents=true
 scale_mesh=Vector3( 1, 1, 1 )
-offset_mesh=Vector3( 0, 0, 0 )
 optimize_mesh=true

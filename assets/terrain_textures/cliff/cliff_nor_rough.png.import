@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/cliff_nor_rough.png-faca9896a7d5f5f2764c1337d99e534c.s3tc.stex"
-path.etc2="res://.import/cliff_nor_rough.png-faca9896a7d5f5f2764c1337d99e534c.etc2.stex"
+path.s3tc="res://.import/cliff_nor_rough.png-e97cd15729c92e292129004f24fbfb60.s3tc.stex"
+path.etc2="res://.import/cliff_nor_rough.png-e97cd15729c92e292129004f24fbfb60.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/terrain_textures/cliff/cliff_nor_rough.png"
-dest_files=[ "res://.import/cliff_nor_rough.png-faca9896a7d5f5f2764c1337d99e534c.s3tc.stex", "res://.import/cliff_nor_rough.png-faca9896a7d5f5f2764c1337d99e534c.etc2.stex" ]
+source_file="res://scenes/WaterwaysDemo/assets/terrain_textures/cliff/cliff_nor_rough.png"
+dest_files=[ "res://.import/cliff_nor_rough.png-e97cd15729c92e292129004f24fbfb60.s3tc.stex", "res://.import/cliff_nor_rough.png-e97cd15729c92e292129004f24fbfb60.etc2.stex" ]
 
 [params]
 

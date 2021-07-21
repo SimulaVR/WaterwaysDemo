@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/rock_outcroppings_nor_rough.png-cc03bdd0acdc7baa61cc09a2cd12bbaa.s3tc.stex"
-path.etc2="res://.import/rock_outcroppings_nor_rough.png-cc03bdd0acdc7baa61cc09a2cd12bbaa.etc2.stex"
+path.s3tc="res://.import/rock_outcroppings_nor_rough.png-75529f091518fa857fe9e75ccf4d6db8.s3tc.stex"
+path.etc2="res://.import/rock_outcroppings_nor_rough.png-75529f091518fa857fe9e75ccf4d6db8.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/terrain_textures/rock_outcroppings/rock_outcroppings_nor_rough.png"
-dest_files=[ "res://.import/rock_outcroppings_nor_rough.png-cc03bdd0acdc7baa61cc09a2cd12bbaa.s3tc.stex", "res://.import/rock_outcroppings_nor_rough.png-cc03bdd0acdc7baa61cc09a2cd12bbaa.etc2.stex" ]
+source_file="res://scenes/WaterwaysDemo/assets/terrain_textures/rock_outcroppings/rock_outcroppings_nor_rough.png"
+dest_files=[ "res://.import/rock_outcroppings_nor_rough.png-75529f091518fa857fe9e75ccf4d6db8.s3tc.stex", "res://.import/rock_outcroppings_nor_rough.png-75529f091518fa857fe9e75ccf4d6db8.etc2.stex" ]
 
 [params]
 

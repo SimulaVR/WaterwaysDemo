@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/smooth_rock_albedo.png-22cdd439e93ef6da0e9924c587161d9d.s3tc.stex"
-path.etc2="res://.import/smooth_rock_albedo.png-22cdd439e93ef6da0e9924c587161d9d.etc2.stex"
+path.s3tc="res://.import/smooth_rock_albedo.png-1ef5e5ff132678b8b9b51c6b0e32ebc6.s3tc.stex"
+path.etc2="res://.import/smooth_rock_albedo.png-1ef5e5ff132678b8b9b51c6b0e32ebc6.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/textures/smooth_rock/smooth_rock_albedo.png"
-dest_files=[ "res://.import/smooth_rock_albedo.png-22cdd439e93ef6da0e9924c587161d9d.s3tc.stex", "res://.import/smooth_rock_albedo.png-22cdd439e93ef6da0e9924c587161d9d.etc2.stex" ]
+source_file="res://scenes/WaterwaysDemo/assets/textures/smooth_rock/smooth_rock_albedo.png"
+dest_files=[ "res://.import/smooth_rock_albedo.png-1ef5e5ff132678b8b9b51c6b0e32ebc6.s3tc.stex", "res://.import/smooth_rock_albedo.png-1ef5e5ff132678b8b9b51c6b0e32ebc6.etc2.stex" ]
 
 [params]
 

@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/grass2.png-7535a5416c9ce72a060f5d4275add7db.s3tc.stex"
-path.etc2="res://.import/grass2.png-7535a5416c9ce72a060f5d4275add7db.etc2.stex"
+path.s3tc="res://.import/grass2.png-0d977f2543ba368f168ccbbaf13ff99f.s3tc.stex"
+path.etc2="res://.import/grass2.png-0d977f2543ba368f168ccbbaf13ff99f.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/textures/grass/grass2.png"
-dest_files=[ "res://.import/grass2.png-7535a5416c9ce72a060f5d4275add7db.s3tc.stex", "res://.import/grass2.png-7535a5416c9ce72a060f5d4275add7db.etc2.stex" ]
+source_file="res://scenes/WaterwaysDemo/assets/textures/grass/grass2.png"
+dest_files=[ "res://.import/grass2.png-0d977f2543ba368f168ccbbaf13ff99f.s3tc.stex", "res://.import/grass2.png-0d977f2543ba368f168ccbbaf13ff99f.etc2.stex" ]
 
 [params]
 

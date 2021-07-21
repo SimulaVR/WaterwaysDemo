@@ -5,9 +5,9 @@ extends Spatial
 
 const WaterHelperMethods = preload("./water_helper_methods.gd")
 
-const FILTER_RENDERER_PATH = "res://addons/waterways/filter_renderer.tscn"
-const FLOW_OFFSET_NOISE_TEXTURE_PATH = "res://addons/waterways/textures/flow_offset_noise.png"
-const FOAM_NOISE_PATH = "res://addons/waterways/textures/foam_noise.png"
+const FILTER_RENDERER_PATH = "res://scenes/WaterwaysDemo/addons/waterways/filter_renderer.tscn"
+const FLOW_OFFSET_NOISE_TEXTURE_PATH = "res://scenes/WaterwaysDemo/addons/waterways/textures/flow_offset_noise.png"
+const FOAM_NOISE_PATH = "res://scenes/WaterwaysDemo/addons/waterways/textures/foam_noise.png"
 
 const MATERIAL_CATEGORIES = {
 	albedo_ = "Albedo",
@@ -22,25 +22,25 @@ enum SHADER_TYPES {WATER, LAVA, CUSTOM}
 const BUILTIN_SHADERS = [
 	{
 		name = "Water",
-		shader_path = "res://addons/waterways/shaders/river.shader",
+		shader_path = "res://scenes/WaterwaysDemo/addons/waterways/shaders/river.shader",
 		texture_paths = [
 			{
 				name = "normal_bump_texture",
-				path = "res://addons/waterways/textures/water1_normal_bump.png"
+				path = "res://scenes/WaterwaysDemo/addons/waterways/textures/water1_normal_bump.png"
 			}
 		]
 	},
 	{
 		name = "Lava",
-		shader_path = "res://addons/waterways/shaders/lava.shader",
+		shader_path = "res://scenes/WaterwaysDemo/addons/waterways/shaders/lava.shader",
 		texture_paths = [
 			{
 				name = "normal_bump_texture",
-				path = "res://addons/waterways/textures/lava_normal_bump.png"
+				path = "res://scenes/WaterwaysDemo/addons/waterways/textures/lava_normal_bump.png"
 			},
 			{
 				name = "emission_texture",
-				path = "res://addons/waterways/textures/lava_emission.png"
+				path = "res://scenes/WaterwaysDemo/addons/waterways/textures/lava_emission.png"
 			}
 		]
 	}
@@ -48,15 +48,15 @@ const BUILTIN_SHADERS = [
 
 const DEBUG_SHADER = {
 	name = "Debug",
-	shader_path = "res://addons/waterways/shaders/river_debug.shader",
+	shader_path = "res://scenes/WaterwaysDemo/addons/waterways/shaders/river_debug.shader",
 	texture_paths = [
 		{
 			name = "debug_pattern",
-			path = "res://addons/waterways/textures/debug_pattern.png"
+			path = "res://scenes/WaterwaysDemo/addons/waterways/textures/debug_pattern.png"
 		},
 		{
 			name = "debug_arrow",
-			path = "res://addons/waterways/textures/debug_arrow.svg"
+			path = "res://scenes/WaterwaysDemo/addons/waterways/textures/debug_arrow.svg"
 		}
 	]
 }

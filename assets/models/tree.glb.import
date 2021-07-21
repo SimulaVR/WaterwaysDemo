@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree.glb-a6aad56bc09063afe86a6b7b2394e352.scn"
+path="res://.import/tree.glb-06577fe3db9221fbbd987215e5b02e29.scn"
 
 [deps]
 
-source_file="res://assets/models/tree.glb"
-dest_files=[ "res://.import/tree.glb-a6aad56bc09063afe86a6b7b2394e352.scn" ]
+source_file="res://scenes/WaterwaysDemo/assets/models/tree.glb"
+dest_files=[ "res://.import/tree.glb-06577fe3db9221fbbd987215e5b02e29.scn" ]
 
 [params]
 
@@ -24,7 +24,6 @@ meshes/ensure_tangents=true
 meshes/storage=0
 meshes/light_baking=0
 meshes/lightmap_texel_size=0.1
-skins/use_named_skins=true
 external_files/store_in_subdir=false
 animation/import=true
 animation/fps=15

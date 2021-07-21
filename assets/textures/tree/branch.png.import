@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/branch.png-c50a658cb069619ea0b0cc6036448ee4.s3tc.stex"
-path.etc2="res://.import/branch.png-c50a658cb069619ea0b0cc6036448ee4.etc2.stex"
+path.s3tc="res://.import/branch.png-e466ecd8f1bfa4e62082250f50d82582.s3tc.stex"
+path.etc2="res://.import/branch.png-e466ecd8f1bfa4e62082250f50d82582.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/textures/tree/branch.png"
-dest_files=[ "res://.import/branch.png-c50a658cb069619ea0b0cc6036448ee4.s3tc.stex", "res://.import/branch.png-c50a658cb069619ea0b0cc6036448ee4.etc2.stex" ]
+source_file="res://scenes/WaterwaysDemo/assets/textures/tree/branch.png"
+dest_files=[ "res://.import/branch.png-e466ecd8f1bfa4e62082250f50d82582.s3tc.stex", "res://.import/branch.png-e466ecd8f1bfa4e62082250f50d82582.etc2.stex" ]
 
 [params]
 

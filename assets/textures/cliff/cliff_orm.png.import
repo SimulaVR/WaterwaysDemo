@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/cliff_orm.png-1c35a33015f220cb5b23d6465e76cfbc.s3tc.stex"
-path.etc2="res://.import/cliff_orm.png-1c35a33015f220cb5b23d6465e76cfbc.etc2.stex"
+path.s3tc="res://.import/cliff_orm.png-5c86fd8c20ad2eefe653e6dcfb096885.s3tc.stex"
+path.etc2="res://.import/cliff_orm.png-5c86fd8c20ad2eefe653e6dcfb096885.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/textures/cliff/cliff_orm.png"
-dest_files=[ "res://.import/cliff_orm.png-1c35a33015f220cb5b23d6465e76cfbc.s3tc.stex", "res://.import/cliff_orm.png-1c35a33015f220cb5b23d6465e76cfbc.etc2.stex" ]
+source_file="res://scenes/WaterwaysDemo/assets/textures/cliff/cliff_orm.png"
+dest_files=[ "res://.import/cliff_orm.png-5c86fd8c20ad2eefe653e6dcfb096885.s3tc.stex", "res://.import/cliff_orm.png-5c86fd8c20ad2eefe653e6dcfb096885.etc2.stex" ]
 
 [params]
 

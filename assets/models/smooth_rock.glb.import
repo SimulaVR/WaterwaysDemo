@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/smooth_rock.glb-c872df8ec9a63361cd2d223a1cfe1304.scn"
+path="res://.import/smooth_rock.glb-ca4c1175c4512321ecc7db88d894a680.scn"
 
 [deps]
 
-source_file="res://assets/models/smooth_rock.glb"
-dest_files=[ "res://.import/smooth_rock.glb-c872df8ec9a63361cd2d223a1cfe1304.scn" ]
+source_file="res://scenes/WaterwaysDemo/assets/models/smooth_rock.glb"
+dest_files=[ "res://.import/smooth_rock.glb-ca4c1175c4512321ecc7db88d894a680.scn" ]
 
 [params]
 
@@ -24,7 +24,6 @@ meshes/ensure_tangents=true
 meshes/storage=0
 meshes/light_baking=0
 meshes/lightmap_texel_size=0.1
-skins/use_named_skins=true
 external_files/store_in_subdir=false
 animation/import=true
 animation/fps=15

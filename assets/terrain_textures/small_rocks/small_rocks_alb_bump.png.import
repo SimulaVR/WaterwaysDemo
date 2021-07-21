@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/small_rocks_alb_bump.png-7b206d59c00f393cefac1eb097e06585.s3tc.stex"
-path.etc2="res://.import/small_rocks_alb_bump.png-7b206d59c00f393cefac1eb097e06585.etc2.stex"
+path.s3tc="res://.import/small_rocks_alb_bump.png-35e7740b7f164a756894518a40413ff7.s3tc.stex"
+path.etc2="res://.import/small_rocks_alb_bump.png-35e7740b7f164a756894518a40413ff7.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/terrain_textures/small_rocks/small_rocks_alb_bump.png"
-dest_files=[ "res://.import/small_rocks_alb_bump.png-7b206d59c00f393cefac1eb097e06585.s3tc.stex", "res://.import/small_rocks_alb_bump.png-7b206d59c00f393cefac1eb097e06585.etc2.stex" ]
+source_file="res://scenes/WaterwaysDemo/assets/terrain_textures/small_rocks/small_rocks_alb_bump.png"
+dest_files=[ "res://.import/small_rocks_alb_bump.png-35e7740b7f164a756894518a40413ff7.s3tc.stex", "res://.import/small_rocks_alb_bump.png-35e7740b7f164a756894518a40413ff7.etc2.stex" ]
 
 [params]
 

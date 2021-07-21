@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/rock_outcroppings_alb_bump.png-27efe76de82d925c9c6ca96253316fc3.s3tc.stex"
-path.etc2="res://.import/rock_outcroppings_alb_bump.png-27efe76de82d925c9c6ca96253316fc3.etc2.stex"
+path.s3tc="res://.import/rock_outcroppings_alb_bump.png-48eef94b6ca5033190c93ccac7c4eb3f.s3tc.stex"
+path.etc2="res://.import/rock_outcroppings_alb_bump.png-48eef94b6ca5033190c93ccac7c4eb3f.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/terrain_textures/rock_outcroppings/rock_outcroppings_alb_bump.png"
-dest_files=[ "res://.import/rock_outcroppings_alb_bump.png-27efe76de82d925c9c6ca96253316fc3.s3tc.stex", "res://.import/rock_outcroppings_alb_bump.png-27efe76de82d925c9c6ca96253316fc3.etc2.stex" ]
+source_file="res://scenes/WaterwaysDemo/assets/terrain_textures/rock_outcroppings/rock_outcroppings_alb_bump.png"
+dest_files=[ "res://.import/rock_outcroppings_alb_bump.png-48eef94b6ca5033190c93ccac7c4eb3f.s3tc.stex", "res://.import/rock_outcroppings_alb_bump.png-48eef94b6ca5033190c93ccac7c4eb3f.etc2.stex" ]
 
 [params]
 

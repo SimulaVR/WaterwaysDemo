@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/water1_normal_bump.png-1e68aa6d8e854a1982405bf0b2a66d64.stex"
+path="res://.import/water1_normal_bump.png-e48f38cf91a760fe1dd45cd3a261db04.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/waterways/textures/water1_normal_bump.png"
-dest_files=[ "res://.import/water1_normal_bump.png-1e68aa6d8e854a1982405bf0b2a66d64.stex" ]
+source_file="res://scenes/WaterwaysDemo/addons/waterways/textures/water1_normal_bump.png"
+dest_files=[ "res://.import/water1_normal_bump.png-e48f38cf91a760fe1dd45cd3a261db04.stex" ]
 
 [params]
 

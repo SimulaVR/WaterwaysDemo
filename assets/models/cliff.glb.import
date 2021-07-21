@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/cliff.glb-267ba08d6600e3760f5e7f60c61b8dba.scn"
+path="res://.import/cliff.glb-097275b14664a2af8e83a1889ae36a70.scn"
 
 [deps]
 
-source_file="res://assets/models/cliff.glb"
-dest_files=[ "res://.import/cliff.glb-267ba08d6600e3760f5e7f60c61b8dba.scn" ]
+source_file="res://scenes/WaterwaysDemo/assets/models/cliff.glb"
+dest_files=[ "res://.import/cliff.glb-097275b14664a2af8e83a1889ae36a70.scn" ]
 
 [params]
 
@@ -24,7 +24,6 @@ meshes/ensure_tangents=true
 meshes/storage=0
 meshes/light_baking=0
 meshes/lightmap_texel_size=0.1
-skins/use_named_skins=true
 external_files/store_in_subdir=false
 animation/import=true
 animation/fps=15

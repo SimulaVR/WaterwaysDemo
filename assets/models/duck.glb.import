@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/duck.glb-a3fd80177e030e457eb3e4e2512d72f6.scn"
+path="res://.import/duck.glb-b2efa3eeef57bece64d4dcb76434eb87.scn"
 
 [deps]
 
-source_file="res://assets/models/duck.glb"
-dest_files=[ "res://.import/duck.glb-a3fd80177e030e457eb3e4e2512d72f6.scn" ]
+source_file="res://scenes/WaterwaysDemo/assets/models/duck.glb"
+dest_files=[ "res://.import/duck.glb-b2efa3eeef57bece64d4dcb76434eb87.scn" ]
 
 [params]
 
@@ -24,7 +24,6 @@ meshes/ensure_tangents=true
 meshes/storage=0
 meshes/light_baking=0
 meshes/lightmap_texel_size=0.1
-skins/use_named_skins=true
 external_files/store_in_subdir=false
 animation/import=true
 animation/fps=15

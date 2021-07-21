@@ -3,9 +3,9 @@
 tool
 extends Spatial
 
-const SystemMapRenderer = preload("res://addons/waterways/system_map_renderer.tscn")
-const FilterRenderer = preload("res://addons/waterways/filter_renderer.tscn")
-const RiverManager = preload("res://addons/waterways/river_manager.gd")
+const SystemMapRenderer = preload("res://scenes/WaterwaysDemo/addons/waterways/system_map_renderer.tscn")
+const FilterRenderer = preload("res://scenes/WaterwaysDemo/addons/waterways/filter_renderer.tscn")
+const RiverManager = preload("res://scenes/WaterwaysDemo/addons/waterways/river_manager.gd")
 
 var system_map : ImageTexture = null setget set_system_map
 var system_bake_resolution := 2

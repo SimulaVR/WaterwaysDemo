@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/smooth_rock_nor.png-e9638e6b56a7df5f520259700103a554.s3tc.stex"
-path.etc2="res://.import/smooth_rock_nor.png-e9638e6b56a7df5f520259700103a554.etc2.stex"
+path.s3tc="res://.import/smooth_rock_nor.png-deba435201318e06216da1963cb8bd74.s3tc.stex"
+path.etc2="res://.import/smooth_rock_nor.png-deba435201318e06216da1963cb8bd74.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/textures/smooth_rock/smooth_rock_nor.png"
-dest_files=[ "res://.import/smooth_rock_nor.png-e9638e6b56a7df5f520259700103a554.s3tc.stex", "res://.import/smooth_rock_nor.png-e9638e6b56a7df5f520259700103a554.etc2.stex" ]
+source_file="res://scenes/WaterwaysDemo/assets/textures/smooth_rock/smooth_rock_nor.png"
+dest_files=[ "res://.import/smooth_rock_nor.png-deba435201318e06216da1963cb8bd74.s3tc.stex", "res://.import/smooth_rock_nor.png-deba435201318e06216da1963cb8bd74.etc2.stex" ]
 
 [params]
 

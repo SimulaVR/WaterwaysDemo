@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon_heightmap_data.svg-00236b6035ce13dd687a19d98237bdbd.stex"
+path="res://.import/icon_heightmap_data.svg-aa000bc20b262b7c5722e72b1c2c452b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/zylann.hterrain/tools/icons/icon_heightmap_data.svg"
-dest_files=[ "res://.import/icon_heightmap_data.svg-00236b6035ce13dd687a19d98237bdbd.stex" ]
+source_file="res://scenes/WaterwaysDemo/addons/zylann.hterrain/tools/icons/icon_heightmap_data.svg"
+dest_files=[ "res://.import/icon_heightmap_data.svg-aa000bc20b262b7c5722e72b1c2c452b.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/round1.exr-8050cfbed31968e6ce8bd055fbaa6897.stex"
+path="res://.import/round1.exr-ae6a9801c4fdb93aa0282ddb3bbb98f7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/zylann.hterrain/tools/brush/shapes/round1.exr"
-dest_files=[ "res://.import/round1.exr-8050cfbed31968e6ce8bd055fbaa6897.stex" ]
+source_file="res://scenes/WaterwaysDemo/addons/zylann.hterrain/tools/brush/shapes/round1.exr"
+dest_files=[ "res://.import/round1.exr-ae6a9801c4fdb93aa0282ddb3bbb98f7.stex" ]
 
 [params]
 

@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/cliff_alb_bump.png-2571fab835a4c04821908b742997d6c0.s3tc.stex"
-path.etc2="res://.import/cliff_alb_bump.png-2571fab835a4c04821908b742997d6c0.etc2.stex"
+path.s3tc="res://.import/cliff_alb_bump.png-b3d58a201cc8aa6b0bad2ce52383b0c6.s3tc.stex"
+path.etc2="res://.import/cliff_alb_bump.png-b3d58a201cc8aa6b0bad2ce52383b0c6.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/terrain_textures/cliff/cliff_alb_bump.png"
-dest_files=[ "res://.import/cliff_alb_bump.png-2571fab835a4c04821908b742997d6c0.s3tc.stex", "res://.import/cliff_alb_bump.png-2571fab835a4c04821908b742997d6c0.etc2.stex" ]
+source_file="res://scenes/WaterwaysDemo/assets/terrain_textures/cliff/cliff_alb_bump.png"
+dest_files=[ "res://.import/cliff_alb_bump.png-b3d58a201cc8aa6b0bad2ce52383b0c6.s3tc.stex", "res://.import/cliff_alb_bump.png-b3d58a201cc8aa6b0bad2ce52383b0c6.etc2.stex" ]
 
 [params]
 

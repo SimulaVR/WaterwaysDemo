@@ -3,7 +3,7 @@
 tool
 extends Spatial
 
-const WaterSystem = preload("res://addons/waterways/water_system_manager.gd")
+const WaterSystem = preload("res://scenes/WaterwaysDemo/addons/waterways/water_system_manager.gd")
 
 
 export var water_system_group_name : String = "waterways_system"

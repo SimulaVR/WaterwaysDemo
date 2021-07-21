@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/river.svg-233e9c2c3b3e593909a8b0720e3d3ed5.stex"
+path="res://.import/river.svg-73e57d177c2beb911df8639c9af66600.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/waterways/icons/river.svg"
-dest_files=[ "res://.import/river.svg-233e9c2c3b3e593909a8b0720e3d3ed5.stex" ]
+source_file="res://scenes/WaterwaysDemo/addons/waterways/icons/river.svg"
+dest_files=[ "res://.import/river.svg-73e57d177c2beb911df8639c9af66600.stex" ]
 
 [params]
 

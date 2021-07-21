@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/foam_noise.png-f6e56347a8c2f45fb557ef710ad17869.s3tc.stex"
-path.etc2="res://.import/foam_noise.png-f6e56347a8c2f45fb557ef710ad17869.etc2.stex"
+path.s3tc="res://.import/foam_noise.png-fa204dcedd8f105fbbe2e969a96f404c.s3tc.stex"
+path.etc2="res://.import/foam_noise.png-fa204dcedd8f105fbbe2e969a96f404c.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://addons/waterways/textures/foam_noise.png"
-dest_files=[ "res://.import/foam_noise.png-f6e56347a8c2f45fb557ef710ad17869.s3tc.stex", "res://.import/foam_noise.png-f6e56347a8c2f45fb557ef710ad17869.etc2.stex" ]
+source_file="res://scenes/WaterwaysDemo/addons/waterways/textures/foam_noise.png"
+dest_files=[ "res://.import/foam_noise.png-fa204dcedd8f105fbbe2e969a96f404c.s3tc.stex", "res://.import/foam_noise.png-fa204dcedd8f105fbbe2e969a96f404c.etc2.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/leaf_nor.png-5333b27c028a30fd2d64a20125ffbde1.stex"
+path="res://.import/leaf_nor.png-936b95cf15d03cc28de55d83e26ba9c7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/textures/weed/leaf_nor.png"
-dest_files=[ "res://.import/leaf_nor.png-5333b27c028a30fd2d64a20125ffbde1.stex" ]
+source_file="res://scenes/WaterwaysDemo/assets/textures/weed/leaf_nor.png"
+dest_files=[ "res://.import/leaf_nor.png-936b95cf15d03cc28de55d83e26ba9c7.stex" ]
 
 [params]
 

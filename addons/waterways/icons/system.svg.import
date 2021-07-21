@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/system.svg-c22af9c26d0684bdbe9cafe3e334da94.stex"
+path="res://.import/system.svg-d5aabd965ff1cea1feded2cf586d666f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/waterways/icons/system.svg"
-dest_files=[ "res://.import/system.svg-c22af9c26d0684bdbe9cafe3e334da94.stex" ]
+source_file="res://scenes/WaterwaysDemo/addons/waterways/icons/system.svg"
+dest_files=[ "res://.import/system.svg-d5aabd965ff1cea1feded2cf586d666f.stex" ]
 
 [params]
 

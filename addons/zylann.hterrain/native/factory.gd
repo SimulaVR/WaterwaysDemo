@@ -1,5 +1,5 @@
 
-const NATIVE_PATH = "res://addons/zylann.hterrain/native/"
+const NATIVE_PATH = "res://scenes/WaterwaysDemo/addons/zylann.hterrain/native/"
 
 const ImageUtilsGeneric = preload("./image_utils_generic.gd")
 

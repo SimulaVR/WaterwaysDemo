@@ -3,9 +3,9 @@
 tool
 extends Viewport
 
-const HEIGHT_SHADER_PATH = "res://addons/waterways/shaders/system_renders/system_height.shader"
-const FLOW_SHADER_PATH = "res://addons/waterways/shaders/system_renders/system_flow.shader"
-const ALPHA_SHADER_PATH = "res://addons/waterways/shaders/system_renders/alpha.shader"
+const HEIGHT_SHADER_PATH = "res://scenes/WaterwaysDemo/addons/waterways/shaders/system_renders/system_height.shader"
+const FLOW_SHADER_PATH = "res://scenes/WaterwaysDemo/addons/waterways/shaders/system_renders/system_flow.shader"
+const ALPHA_SHADER_PATH = "res://scenes/WaterwaysDemo/addons/waterways/shaders/system_renders/alpha.shader"
 
 var _camera : Camera
 var _container : Spatial

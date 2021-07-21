@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/splat4.png-31490810b5f67189beb7a0d6256549f1.stex"
+path="res://.import/splat4.png-056f9b4d919e4efc526056de6cb4c02a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tdata/splat4.png"
-dest_files=[ "res://.import/splat4.png-31490810b5f67189beb7a0d6256549f1.stex" ]
+source_file="res://scenes/WaterwaysDemo/assets/tdata/splat4.png"
+dest_files=[ "res://.import/splat4.png-056f9b4d919e4efc526056de6cb4c02a.stex" ]
 
 [params]
 

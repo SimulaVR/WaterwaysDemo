@@ -6,7 +6,7 @@ var _ui : Control
 var _updating := false
 
 func _init() -> void:
-	_ui = preload("res://addons/waterways/gui/gradient_inspector.tscn").instance()
+	_ui = preload("res://scenes/WaterwaysDemo/addons/waterways/gui/gradient_inspector.tscn").instance()
 	add_child(_ui) 
 	set_bottom_editor(_ui)
 	_ui.get_node("Color1").connect("color_changed", self, "gradient_changed")

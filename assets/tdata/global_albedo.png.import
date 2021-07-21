@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/global_albedo.png-25f19a53656a6ee550a758fe5d809895.stex"
+path="res://.import/global_albedo.png-36980d25fd31b97ba6f92d3c08785ab3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tdata/global_albedo.png"
-dest_files=[ "res://.import/global_albedo.png-25f19a53656a6ee550a758fe5d809895.stex" ]
+source_file="res://scenes/WaterwaysDemo/assets/tdata/global_albedo.png"
+dest_files=[ "res://.import/global_albedo.png-36980d25fd31b97ba6f92d3c08785ab3.stex" ]
 
 [params]
 

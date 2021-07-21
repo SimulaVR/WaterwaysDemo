@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/detail.png-8eafef3f123ad044604c8f1de4714ca3.stex"
+path="res://.import/detail.png-2a8939d16719650457552b9b824bb75c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tdata/detail.png"
-dest_files=[ "res://.import/detail.png-8eafef3f123ad044604c8f1de4714ca3.stex" ]
+source_file="res://scenes/WaterwaysDemo/assets/tdata/detail.png"
+dest_files=[ "res://.import/detail.png-2a8939d16719650457552b9b824bb75c.stex" ]
 
 [params]
 

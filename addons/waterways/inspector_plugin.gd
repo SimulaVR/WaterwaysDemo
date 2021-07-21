@@ -2,8 +2,8 @@
 # See `LICENSE.md` included in the source distribution for details.
 extends EditorInspectorPlugin
 
-const RiverManager = preload("res://addons/waterways/river_manager.gd")
-var _editor = load("res://addons/waterways/editor_property.gd")
+const RiverManager = preload("res://scenes/WaterwaysDemo/addons/waterways/river_manager.gd")
+var _editor = load("res://scenes/WaterwaysDemo/addons/waterways/editor_property.gd")
 
 
 func can_handle(object: Object) -> bool:

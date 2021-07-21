@@ -3,17 +3,17 @@
 tool
 extends Viewport
 
-const DILATE_PASS1_PATH = "res://addons/waterways/shaders/filters/dilate_filter_pass1.shader"
-const DILATE_PASS2_PATH = "res://addons/waterways/shaders/filters/dilate_filter_pass2.shader"
-const DILATE_PASS3_PATH = "res://addons/waterways/shaders/filters/dilate_filter_pass3.shader"
-const NORMAL_MAP_PASS_PATH = "res://addons/waterways/shaders/filters/normal_map_pass.shader"
-const NORMAL_TO_FLOW_PASS_PATH = "res://addons/waterways/shaders/filters/normal_to_flow_filter.shader"
-const BLUR_PASS1_PATH = "res://addons/waterways/shaders/filters/blur_pass1.shader"
-const BLUR_PASS2_PATH = "res://addons/waterways/shaders/filters/blur_pass2.shader"
-const FOAM_PASS_PATH = "res://addons/waterways/shaders/filters/foam_pass.shader"
-const COMBINE_PASS_PATH = "res://addons/waterways/shaders/filters/combine_pass.shader"
-const DOTPRODUCT_PASS_PATH = "res://addons/waterways/shaders/filters/dotproduct.shader"
-const FLOW_PRESSURE_PASS_PATH = "res://addons/waterways/shaders/filters/flow_pressure_pass.shader"
+const DILATE_PASS1_PATH = "res://scenes/WaterwaysDemo/addons/waterways/shaders/filters/dilate_filter_pass1.shader"
+const DILATE_PASS2_PATH = "res://scenes/WaterwaysDemo/addons/waterways/shaders/filters/dilate_filter_pass2.shader"
+const DILATE_PASS3_PATH = "res://scenes/WaterwaysDemo/addons/waterways/shaders/filters/dilate_filter_pass3.shader"
+const NORMAL_MAP_PASS_PATH = "res://scenes/WaterwaysDemo/addons/waterways/shaders/filters/normal_map_pass.shader"
+const NORMAL_TO_FLOW_PASS_PATH = "res://scenes/WaterwaysDemo/addons/waterways/shaders/filters/normal_to_flow_filter.shader"
+const BLUR_PASS1_PATH = "res://scenes/WaterwaysDemo/addons/waterways/shaders/filters/blur_pass1.shader"
+const BLUR_PASS2_PATH = "res://scenes/WaterwaysDemo/addons/waterways/shaders/filters/blur_pass2.shader"
+const FOAM_PASS_PATH = "res://scenes/WaterwaysDemo/addons/waterways/shaders/filters/foam_pass.shader"
+const COMBINE_PASS_PATH = "res://scenes/WaterwaysDemo/addons/waterways/shaders/filters/combine_pass.shader"
+const DOTPRODUCT_PASS_PATH = "res://scenes/WaterwaysDemo/addons/waterways/shaders/filters/dotproduct.shader"
+const FLOW_PRESSURE_PASS_PATH = "res://scenes/WaterwaysDemo/addons/waterways/shaders/filters/flow_pressure_pass.shader"
 
 
 var dilate_pass_1_shader : Shader

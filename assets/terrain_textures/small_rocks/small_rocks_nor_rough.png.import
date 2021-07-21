@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/small_rocks_nor_rough.png-f129660e51c250327f8d9c2376344216.s3tc.stex"
-path.etc2="res://.import/small_rocks_nor_rough.png-f129660e51c250327f8d9c2376344216.etc2.stex"
+path.s3tc="res://.import/small_rocks_nor_rough.png-dc7e29546d55dc2fdfc5c5354184039b.s3tc.stex"
+path.etc2="res://.import/small_rocks_nor_rough.png-dc7e29546d55dc2fdfc5c5354184039b.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/terrain_textures/small_rocks/small_rocks_nor_rough.png"
-dest_files=[ "res://.import/small_rocks_nor_rough.png-f129660e51c250327f8d9c2376344216.s3tc.stex", "res://.import/small_rocks_nor_rough.png-f129660e51c250327f8d9c2376344216.etc2.stex" ]
+source_file="res://scenes/WaterwaysDemo/assets/terrain_textures/small_rocks/small_rocks_nor_rough.png"
+dest_files=[ "res://.import/small_rocks_nor_rough.png-dc7e29546d55dc2fdfc5c5354184039b.s3tc.stex", "res://.import/small_rocks_nor_rough.png-dc7e29546d55dc2fdfc5c5354184039b.etc2.stex" ]
 
 [params]
 

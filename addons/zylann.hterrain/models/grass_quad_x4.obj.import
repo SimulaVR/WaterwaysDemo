@@ -2,18 +2,17 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/grass_quad_x4.obj-c449a7d6c810ba1595ed30df9fbf3d28.mesh"
+path="res://.import/grass_quad_x4.obj-65faea2c6fbaf9bb0bae3f4eaa863f75.mesh"
 
 [deps]
 
-files=[ "res://.import/grass_quad_x4.obj-c449a7d6c810ba1595ed30df9fbf3d28.mesh" ]
+files=[ "res://.import/grass_quad_x4.obj-65faea2c6fbaf9bb0bae3f4eaa863f75.mesh" ]
 
-source_file="res://addons/zylann.hterrain/models/grass_quad_x4.obj"
-dest_files=[ "res://.import/grass_quad_x4.obj-c449a7d6c810ba1595ed30df9fbf3d28.mesh", "res://.import/grass_quad_x4.obj-c449a7d6c810ba1595ed30df9fbf3d28.mesh" ]
+source_file="res://scenes/WaterwaysDemo/addons/zylann.hterrain/models/grass_quad_x4.obj"
+dest_files=[ "res://.import/grass_quad_x4.obj-65faea2c6fbaf9bb0bae3f4eaa863f75.mesh", "res://.import/grass_quad_x4.obj-65faea2c6fbaf9bb0bae3f4eaa863f75.mesh" ]
 
 [params]
 
 generate_tangents=true
 scale_mesh=Vector3( 1, 1, 1 )
-offset_mesh=Vector3( 0, 0, 0 )
 optimize_mesh=true

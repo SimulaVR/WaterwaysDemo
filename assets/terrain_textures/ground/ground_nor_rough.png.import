@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/ground_nor_rough.png-03b2eea486375d80581bef704faf1020.s3tc.stex"
-path.etc2="res://.import/ground_nor_rough.png-03b2eea486375d80581bef704faf1020.etc2.stex"
+path.s3tc="res://.import/ground_nor_rough.png-c1a964ead94bebf830b49ff8f9a35106.s3tc.stex"
+path.etc2="res://.import/ground_nor_rough.png-c1a964ead94bebf830b49ff8f9a35106.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/terrain_textures/ground/ground_nor_rough.png"
-dest_files=[ "res://.import/ground_nor_rough.png-03b2eea486375d80581bef704faf1020.s3tc.stex", "res://.import/ground_nor_rough.png-03b2eea486375d80581bef704faf1020.etc2.stex" ]
+source_file="res://scenes/WaterwaysDemo/assets/terrain_textures/ground/ground_nor_rough.png"
+dest_files=[ "res://.import/ground_nor_rough.png-c1a964ead94bebf830b49ff8f9a35106.s3tc.stex", "res://.import/ground_nor_rough.png-c1a964ead94bebf830b49ff8f9a35106.etc2.stex" ]
 
 [params]
 

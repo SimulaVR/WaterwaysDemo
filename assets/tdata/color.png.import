@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/color.png-1ea7a3834944362474f03eee56765b8e.stex"
+path="res://.import/color.png-17fe7553742311df11e471d4f6464b22.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tdata/color.png"
-dest_files=[ "res://.import/color.png-1ea7a3834944362474f03eee56765b8e.stex" ]
+source_file="res://scenes/WaterwaysDemo/assets/tdata/color.png"
+dest_files=[ "res://.import/color.png-17fe7553742311df11e471d4f6464b22.stex" ]
 
 [params]
 
